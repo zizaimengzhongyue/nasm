@@ -3,3 +3,4 @@ main
 *.out
 core.*
 *build.sh
+*test*
